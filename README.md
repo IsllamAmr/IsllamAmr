@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Islam
 
 - 🔭 I’m currently learning FLUTTER Development 
-- 🌱 I’m currently learning Cyber Security, Ethical Hacking, and Networking  
+- 🌱 I’m currently learning Cyber Security, Soc, Ethical Hacking, and Networking  
 - 👯 I’m looking to collaborate on security research or open-source projects  
 - 🤔 I’m looking for help with real-world penetration testing practice  
 - 💬 Ask me about Networking, Git, or Flutter development  
