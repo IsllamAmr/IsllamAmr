@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Islam
 
-- 🔭 I’m currently working on building secure and clean applications with Flutter & Python  
+- 🔭 I’m currently learning FLUTTER Development 
 - 🌱 I’m currently learning Cyber Security, Ethical Hacking, and Networking  
 - 👯 I’m looking to collaborate on security research or open-source projects  
 - 🤔 I’m looking for help with real-world penetration testing practice  
