@@ -21,6 +21,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/isllamr">
+  <a href="https://www.instagram.com/isllam_amr?fbclid=IwY2xjawRBFo1leHRuA2FlbQIxMABicmlkETE2aXBRS0I4dHZVck5UWDhkc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuvgq9RdbP_UzpaEzQcpGPXKowz1u7rDN6oJrZb8oY9j9uxyNwxUBLq_CJbQ_aem_UYsf5pdVAk_N-bOjsMCRKw">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
