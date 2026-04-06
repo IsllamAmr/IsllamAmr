@@ -9,3 +9,17 @@
 - 💬 Ask me about Networking, Git, or Flutter development  
 - 📫 How to reach me: isllamamr@email.com  
 - ⚡ Fun fact: I love solving problems more than writing code 😎
+
+ <div align="center">
+  <a href="https://www.facebook.com/Eslam.Amr.Shaban?locale=ar_AR">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="رابط_حسابك_هنا">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <a href="رابط_حسابك_هنا">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</div>
