@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Amr;Building+Local+Arabic+AI+%F0%9F%A4%96;Junior+Mobile+App+Developer;Flutter+%7C+Firebase+%7C+Supabase;Learning+Cyber+Security+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Amr;Building+Local+Arabic+AI+%F0%9F%A4%96;LLM+Agents+%26+Tool+Calling;Voice+AI%3A+Whisper+%2B+TTS+%F0%9F%8E%99%EF%B8%8F;Securing+LLMs+from+Prompt+Injection+%F0%9F%94%90;AI-Powered+Motion+Graphics+%F0%9F%8E%AC" alt="Typing SVG" />
 
-**Computer Science Graduate from Egypt 🇪🇬 · Always learning & building 🚀**
+### AI Engineer · Local LLMs & Agents · LLM Security · Motion Graphics
+
+**Computer Science Graduate from Egypt 🇪🇬**
 
 <a href="https://isllamamr.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/isllamr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,48 +20,83 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 Building **local, private Arabic AI**: LLM agents, voice assistants and evals, see [**SAHIR**](https://github.com/IsllamAmr/SAHIR)
-- 📱 Building cross-platform mobile apps with **Flutter & Dart**
-- 🔥 Working with backends like **Firebase**, **Supabase** and **Node.js**
-- 🔐 Learning **Cyber Security**: SOC, Ethical Hacking and Networking
-- 👯 Open to collaborating on **security research** and **open-source** projects
-- 💬 Ask me about **Networking, Git or Flutter**
+- 🤖 I build **local, private Arabic AI**: assistants that run fully on your own machine with open models on Ollama, with no data leaving the device
+- 🛠️ I design **LLM agents** that use tools safely: strict JSON planning, sandboxed tools, and no destructive actions
+- 🧪 I measure instead of guessing: every prompt or design change is tested with **evals** across seeds
+- 🔐 I bring my **Cyber Security** background to AI: prompt-injection testing and agent safety
+- 🎬 I create **motion graphics and educational explainer videos**, built with AI (Claude)
 - ⚡ Fun fact: I love solving problems more than writing code 😎
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td>
+
+### [🦉 SAHIR · ساهر](https://github.com/IsllamAmr/SAHIR)
+
+A **local, private Arabic AI assistant**: chat, voice, a tool-using agent, and email, all on a laptop GPU.
+
+- 🎙️ **Voice:** push-to-talk with faster-whisper and Piper; Saher starts speaking **~2.3 s** after you let go
+- 🛠️ **Agent:** reads PDF, Word and Excel files, calculates, writes new reports, and reads email through n8n
+- 🧠 **Planner + writer architecture:** ALLaM 7B picks tools as strict JSON, and a separate persona writes the reply
+- 🔐 **Prompt-injection guard:** without it the model obeyed a malicious file **3/3** times; with it, **0**
+- 📊 **Evals:** improved from **6/14 to 42/42** on Saudi and Egyptian dialect tasks
+
+`ALLaM 7B` `Ollama` `Python` `faster-whisper` `Piper TTS` `n8n` `JSON schema`
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,nodejs,js,html,css,python,git,github,linux&perline=12" alt="Tech stack" />
-</p>
-
 **🤖 AI & LLMs**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Local_LLMs-ALLaM_·_Qwen-36BCF7?style=for-the-badge" alt="Local LLMs" />
   <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-8A2BE2?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Whisper-Speech_to_Text-412991?style=for-the-badge" alt="Whisper" />
   <img src="https://img.shields.io/badge/TTS-Piper_·_Arabic_voices-FF6F00?style=for-the-badge" alt="TTS" />
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/LLM_Security-Prompt_Injection-D32F2F?style=for-the-badge" alt="LLM security" />
+  <img src="https://img.shields.io/badge/LLM_Evals-Prompt_Engineering-2E7D32?style=for-the-badge" alt="Evals" />
 </p>
 
-## 🚀 Featured Projects
+**🔐 Security & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Security-Prompt_Injection-D32F2F?style=for-the-badge" alt="LLM security" />
+  <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+**💻 Languages & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,github&perline=10" alt="Languages and tools" />
+</p>
+
+**🎬 Content**
+
+<p>
+  <img src="https://img.shields.io/badge/Motion_Graphics-AI--Powered-FF4081?style=for-the-badge" alt="Motion graphics" />
+  <img src="https://img.shields.io/badge/Educational_Videos-Explainers-7C4DFF?style=for-the-badge" alt="Educational videos" />
+</p>
+
+<sub>Also worked with: Flutter · Dart · Firebase · Supabase · Node.js</sub>
+
+## 📁 Earlier Work
 
 | Project | Description | Tech |
 |---|---|---|
-| [**🦉 SAHIR · ساهر**](https://github.com/IsllamAmr/SAHIR) | Local, private Arabic AI assistant: chat, push-to-talk voice (~2.3 s to first audio), a tool-using agent for files, reports and email, and a prompt-injection guard. Scores 42/42 on its agent eval | ALLaM 7B · Ollama · Whisper · Piper · n8n |
 | [**Evara BNS**](https://github.com/IsllamAmr/Evara-BNS) | Employee attendance system | Supabase · Node.js |
-| [**E-Exam System**](https://github.com/IsllamAmr/amr-shaaban) | Online exams for students with a teacher dashboard for exams, results and question banks | Firebase |
-| [**Noon Chat**](https://github.com/IsllamAmr/noon_chat) | Real-time chat app (in progress) | Flutter · Firebase |
+| [**E-Exam System**](https://github.com/IsllamAmr/amr-shaaban) | Online exams with a teacher dashboard for results and question banks | Firebase |
+| [**Noon Chat**](https://github.com/IsllamAmr/noon_chat) | Real-time chat app | Flutter · Firebase |
 | [**Movies Site**](https://github.com/IsllamAmr/movies-site) | Movie browsing website | TMDB API · JavaScript |
-| [**Portfolio**](https://github.com/IsllamAmr/Portfolio) | My personal portfolio, [live here](https://isllamamr.github.io/Portfolio) | HTML · CSS · JS |
+| [**Portfolio**](https://github.com/IsllamAmr/Portfolio) | Personal portfolio, [live here](https://isllamamr.github.io/Portfolio) | HTML · CSS · JS |
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsllamAmr&theme=tokyonight" alt="Profile details" />
-</p>
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsllamAmr&theme=tokyonight" alt="GitHub stats" />
