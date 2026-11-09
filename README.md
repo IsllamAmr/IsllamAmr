@@ -105,6 +105,14 @@ A **local, private Arabic AI assistant**: chat, voice, a tool-using agent, and e
   <img src="https://streak-stats.demolab.com?user=IsllamAmr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsllamAmr/IsllamAmr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsllamAmr/IsllamAmr/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/IsllamAmr/IsllamAmr/output/github-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
 ---
 
 <div align="center">
