@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Amr;Building+Local+Arabic+AI+%F0%9F%A4%96;LLM+Agents+%26+Tool+Calling;Voice+AI%3A+Whisper+%2B+TTS+%F0%9F%8E%99%EF%B8%8F;Securing+LLMs+from+Prompt+Injection+%F0%9F%94%90;AI-Powered+Motion+Graphics+%F0%9F%8E%AC" alt="Typing SVG" />
+<img src="assets/banner.svg" width="100%" alt="Islam Amr — AI Engineer · Local LLMs & Agents · LLM Security · Motion Graphics" />
 
-### AI Engineer · Local LLMs & Agents · LLM Security · Motion Graphics
-
-**Computer Science Graduate from Egypt 🇪🇬**
+**Computer Science Graduate from Egypt 🇪🇬 · AI Engineer · Motion Graphics 🎬**
 
 <a href="https://isllamamr.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/isllamr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
