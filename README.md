@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Islam Amr — AI Engineer · Local LLMs & Agents · LLM Security · Motion Graphics" />
+<img src="assets/banner-terminal.svg" width="100%" alt="Islam Amr — AI Engineer · Local LLMs & Agents · LLM Security · Motion Graphics" />
 
 **Computer Science Graduate from Egypt 🇪🇬 · AI Engineer · Motion Graphics 🎬**
 
